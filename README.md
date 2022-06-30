@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ParthThanki
 - 👀 I’m interested in solving complex problem using my knowledge 
-- 🌱 I’m currently learning Data Anayltic Course by Google 
+- 🌱 I Finish learning Data Anayltic Course by Google 
 - 💞️ I’m looking to collaborate on Data Ananyltic Projects 
-- 📫 How to reach me email:- Officialparththanki@gmail.com, linkedin:- Parth Thanki, Social Media:- mr.thanki.20
+- 📫 How to reach me email:- Officialparththanki@gmail.com, linkedin:- Parth Thanki
 
 
 <!---
