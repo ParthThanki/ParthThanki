@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving complex problem using my knowledge 
 - 🌱 I Finish learning Data Anayltic Course by Google 
 - 💞️ I’m looking to collaborate on Data Ananyltic Projects 
-- 📫 How to reach me email:- Officialparththanki@gmail.com, linkedin:- Parth Thanki
+- 📫 How to reach me email:- Officialparththanki@gmail.com, linkedin:- ParthThanki
 
 
 <!---
