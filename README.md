@@ -1,11 +1,1 @@
-- 👋 Hi, I’m @ParthThanki
-- 👀 I’m interested in solving complex problem using my knowledge 
-- 🌱 I Finish learning Data Anayltic Course by Google 
-- 💞️ I’m looking to collaborate on Data Ananyltic Projects 
-- 📫 How to reach me email:- Officialparththanki@gmail.com, linkedin:- ParthThanki
-
-
-<!---
-ParthThanki/ParthThanki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Parth Thanki, a Computer Science enthusiast skilled in Python, C++, and Java. At CSU Long Beach, I've focused on data analytics, machine learning, and software development. My work includes developing predictive models for Fake News Detection and enhancing data-driven strategies in digital marketing. On GitHub, you'll find my projects that reflect my passion for using technology to solve complex problems. Let's connect to explore innovative tech solutions together!
